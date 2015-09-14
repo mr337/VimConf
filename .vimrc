@@ -36,6 +36,8 @@ NeoBundle 'Shougo/vimproc', {
 NeoBundle 'tpope/vim-sensible'
 " sleuth.vim: Heuristically set buffer options
 NeoBundle 'tpope/vim-sleuth'
+" flake8 for pep8
+NeoBundle "andviro/flake8-vim"
 " commentary.vim: Comment stuff out
 NeoBundle 'tpope/vim-commentary'
 " surround.vim: Quoting/parenthesizing made simple
